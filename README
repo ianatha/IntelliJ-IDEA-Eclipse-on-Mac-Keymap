@@ -1,0 +1,5 @@
+Emulates the Eclipse keymap on Macs by replacing all instances of "Ctrl" with "⌘".
+
+It's based on the Eclipse keymap IntelliJ IDEA ships with: http://git.jetbrains.org/?p=idea/community.git;a=blob_plain;f=platform/platform-resources/src/idea/Keymap_Eclipse.xml;hb=HEAD
+
+To install, type ./install.sh
