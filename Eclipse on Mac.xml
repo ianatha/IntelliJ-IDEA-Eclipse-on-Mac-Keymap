@@ -95,6 +95,7 @@
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta F4" />
+    <keyboard-shortcut first-keystroke="meta W" />
   </action>
   <action id="CloseEditor" />
   <action id="CloseWindow" />
