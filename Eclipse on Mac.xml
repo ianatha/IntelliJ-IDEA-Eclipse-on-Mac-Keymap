@@ -100,7 +100,7 @@
   <action id="CloseEditor" />
   <action id="CloseWindow" />
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="meta SPACE" />
+    <keyboard-shortcut first-keystroke="control SPACE" />
   </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll">
