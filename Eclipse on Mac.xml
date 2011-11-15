@@ -34,7 +34,7 @@
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
   <action id="ActivateFindToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
+    
   </action>
   <action id="ActivateHierarchyToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
@@ -270,7 +270,7 @@
     <keyboard-shortcut first-keystroke="shift meta ENTER" />
   </action>
   <action id="EditorContextInfo">
-    <keyboard-shortcut first-keystroke="alt Q" />
+    
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta D" />
