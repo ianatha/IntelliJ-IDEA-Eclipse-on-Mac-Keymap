@@ -52,7 +52,6 @@
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="meta O" second-keystroke="alt 7" />
   </action>
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
@@ -488,7 +487,7 @@
     <keyboard-shortcut first-keystroke="meta P" />
   </action>
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta F3" />
+    <keyboard-shortcut first-keystroke="meta O" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta H" />
