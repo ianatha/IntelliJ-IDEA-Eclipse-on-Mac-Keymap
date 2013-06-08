@@ -40,7 +40,6 @@
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
   <action id="ActivateMessagesToolWindow">
-    <keyboard-shortcut first-keystroke="" />
   </action>
   <action id="ActivateNavBar">
     <keyboard-shortcut first-keystroke="alt F11" />
