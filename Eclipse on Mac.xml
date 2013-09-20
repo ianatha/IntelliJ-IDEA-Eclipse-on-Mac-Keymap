@@ -845,7 +845,7 @@
     <keyboard-shortcut first-keystroke="alt F1" />
   </action>
   <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="shift F11" />
+    <keyboard-shortcut first-keystroke="shift meta F11" />
   </action>
   <action id="ShowContent">
     <keyboard-shortcut first-keystroke="alt DOWN" />
